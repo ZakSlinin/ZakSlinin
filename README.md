@@ -3,11 +3,9 @@
 # Hello, I'm Zak
 ### I'm learning mobile development on Flutter 
   ### 💻My Stack
-Dart, Flutter
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50"/>&nbsp;
-<img src="https://raw.githubusercontent.com/jsx-ir/logo/master/jsx.png" height="50">&nbsp;
-<img src="https://i0.wp.com/techprimelab.com/wp-content/uploads/2020/06/SCSS-or-CSS.jpg?fit=1024%2C576&ssl=1" height="50">&nbsp;
-<img src="https://images.ctfassets.net/23aumh6u8s0i/6pjUKboBuFLvCKkE3esaFA/5f2101d6d2add5c615db5e98a553fc44/nextjs.jpeg" height="50">&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" height="50"/>&nbsp;
+<img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="50"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50"/>&nbsp;
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ803r_FTGrMlWpKJqOWmQgwv0BkQaDWy8q1Q&s" height="50"/>&nbsp;
 </div>
