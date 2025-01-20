@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello, I'm Zak
-### I'm intern Flutter developer 
+### I'm junior Flutter developer 
   ### 💻My Stack
 <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="50"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" height="50"/>&nbsp;
