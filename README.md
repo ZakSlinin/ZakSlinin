@@ -2,6 +2,7 @@
 
 # Hello, I'm Zak
 ### I'm junior Flutter developer 
+## Really love user interfaces, mobile apps and information ecosystem.
   ### 💻My Stack
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/1200px-Dart-logo-icon.svg.png" height="50"/>&nbsp;
 <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" height="50"/>&nbsp;
