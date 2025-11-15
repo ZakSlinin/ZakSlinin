@@ -6,6 +6,6 @@
 
   ## 🧑‍💻 I'm Zakhar Slinin - Backend developer, aspiring to management
 ## 👀 Backend and Mobile development
-## ⭐️ Dart, Flutter && Golang
+## ⭐️ Golang
   
 </div>
