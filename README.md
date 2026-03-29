@@ -2,16 +2,6 @@
 
 Backend developer focused on **Go**
 
----
-
-## 🚀 About Me
-
-* 🧠 Backend developer (Go)
-* ⚙️ APIs, microservices, databases
-* 🏆 Hackathons & olympiads participant
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -42,13 +32,7 @@ Backend developer focused on **Go**
 
 * Profile: https://leetcode.com/u/DZcAUPaiNc/
 
----
 
-## 📌 Goals
-
-* 🚀 Build strong backend projects
-* ⚙️ Improve algorithms & math skill
-* 📈 Grow as a backend engineer
 
 ---
 
