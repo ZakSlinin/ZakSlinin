@@ -6,7 +6,7 @@ Backend developer focused on **Go**
 
 <div align="center">
 
-![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=go,gin,postgres,postman,html,css,javascript)
+![Tech stack](https://go-skill-icons.vercel.app/api/icons?i=go,gin,postgres,postman,docker)
 
 </div>
 
