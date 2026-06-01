@@ -22,20 +22,6 @@ Backend developer focused on **Go**
 
 ---
 
-## 🧩 Algorithms
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/DZcAUPaiNc?theme=dark&font=Baloo&ext=contest" />
-
-</div>
-
-* Profile: https://leetcode.com/u/DZcAUPaiNc/
-
-
-
----
-
 ## 📫 Contact
 
 * Telegram: @ZakSln
